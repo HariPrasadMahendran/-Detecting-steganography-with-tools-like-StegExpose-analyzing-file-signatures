@@ -46,6 +46,10 @@ java -jar StegExpose.jar suspect.jpg
 ```
 ## OUTPUT:
 List of Images with Steganography Detection Scores and File Signature Details
+<img width="328" height="231" alt="Screenshot 2026-09-07 184957" src="https://github.com/user-attachments/assets/a5a83555-c7df-4d96-b822-f574499a71ce" />
+<img width="342" height="251" alt="Screenshot 2026-09-07 185010" src="https://github.com/user-attachments/assets/2be5561f-fcae-42dd-aeea-d5d2a0c02159" />
+<img width="330" height="227" alt="Screenshot 2026-09-07 185021" src="https://github.com/user-attachments/assets/8f3f531f-b1e3-4fd8-a017-ac02e52db969" />
+
 
 ## RESULT:
 Hidden data was successfully detected and file signatures were analyzed for irregularities.
